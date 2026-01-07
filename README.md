@@ -1,93 +1,88 @@
-<!-- SPACE ANIMATED HEADER -->
+<!-- 🌌 SPACE AESTHETIC HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2671,50:c33764,100:f857a6&height=220&section=header&text=Aakriti%20Singh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
-🚀 Aspiring Developer | Exploring the Digital Universe 🌌
+✨ Frontend Developer | AI/ML Explorer | Girl in Tech 💻🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Welcome+to+my+space+station!;I+build+cool+things+with+code;Always+learning%2C+always+creating" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A1FF&size=22&center=true&vCenter=true&width=600&lines=Designing+beautiful+web+experiences;Frontend+is+my+superpower;Exploring+AI+%26+Machine+Learning;Code.+Create.+Evolve." />
 </p>
 
 ---
 
-## 🌠 About Me
+## 🌸 About Me
 
-<img align="right" src="https://i.imgur.com/8RKXAIV.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
 
-🧑‍🚀 **Name:** YOUR NAME  
-💻 **Role:** Aspiring Developer  
-🪐 **Theme:** Space | Futuristic | Creative  
-📚 **Learning:** Full-Stack Development  
-🔥 **Goal:** Build impactful and innovative applications  
+| 💫 | Details |
+|----|--------|
+| 👩‍💻 **Name** | Aakriti Singh |
+| 🎯 **Role** | Frontend Developer |
+| 🎨 **Specialty** | UI Design & Interactive Web |
+| 💻 **Core Skills** | HTML, CSS, JavaScript |
+| 🧠 **Also Know** | C, C++, Java |
+| 🤖 **Interested In** | AI & Machine Learning |
+| 🌱 **Mindset** | Curious • Creative • Consistent |
 
-> *“Code is my spaceship, and the internet is my universe.”*
+> *“I design interfaces that feel as good as they look.”* ✨
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
 
-## 🧪 Projects (Mission Log)
+## 🚀 What I’m Working On
 
-🚀 **Project 1 – Space Portfolio Website**  
-🌌 Description: A futuristic personal portfolio  
-🔗 Link: https://github.com/yourusername/project1  
-
-🚀 **Project 2 – Galaxy Task Manager**  
-🛰️ Description: Productivity app with modern UI  
-🔗 Link: https://github.com/yourusername/project2  
-
-🚀 **Project 3 – AI Chat Bot**  
-🤖 Description: Intelligent chatbot built with Python  
-🔗 Link: https://github.com/yourusername/project3  
+🌷 Enhancing frontend design skills  
+🤍 Building responsive & aesthetic web projects  
+🤖 Learning **AI / ML fundamentals**  
+💡 Improving problem-solving with **C & C++**  
 
 ---
 
-## 📊 GitHub Stats (Live Space Data)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AakritiSingh05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakritiSingh05&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌍 Contact Me
+## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://github.com/AakritiSingh05">
+    <img src="https://img.shields.io/badge/GitHub-1d1f21?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🌌 Visitor Counter
+## 🌸 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Visitors&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AakritiSingh05&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 
 ---
 
-<!-- SPACE FOOTER -->
+<!-- 🌙 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f857a6,50:c33764,100:1d2671&height=150&section=footer" />
 </p>
