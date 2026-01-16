@@ -24,7 +24,7 @@
 | 🎨 **Specialty** | UI Design & Interactive Web |
 | 💻 **Core Skills** | HTML, CSS, JavaScript |
 | 🧠 **Also Know** | C, C++, Java |
-| 🤖 **Interested In** | AI & Machine Learning |
+| 🤖 **Interested In** | AI & Web Devlopment|
 | 🌱 **Mindset** | Curious • Creative • Consistent |
 
 > *“I design interfaces that feel as good as they look.”* ✨
