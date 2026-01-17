@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-✨ Frontend Developer | AI/ML Explorer | Girl in Tech 💻🚀
+✨ Frontend Developer | AI/Web Dev Explorer | Girl in Tech 💻🚀
 </h3>
 
 <p align="center">
