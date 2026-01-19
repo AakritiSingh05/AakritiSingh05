@@ -48,7 +48,7 @@
 🌷 Enhancing frontend design skills  
 🤍 Building responsive & aesthetic web projects  
 🤖 Learning **AI / ML fundamentals**  
-💡 Improving problem-solving with **C & C++**  
+💡 Improving problem-solving with **C,C++ & Java**  
 
 ---
 
