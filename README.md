@@ -1,6 +1,6 @@
 <!-- 🌌 SPACE AESTHETIC HEADER -->
 <p align="center">
-  <img src=["https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&textBg=false"]/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&textBg=false"/>
 </p>
 
 <h3 align="center">
